@@ -1,0 +1,9 @@
+set args
+b
+next
+step
+continue
+print
+display
+info locals
+q
